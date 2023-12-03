@@ -65,7 +65,6 @@
 
 /* Begin PBXFileReference section */
 		8A53DD8A28F6D2BD00F4DF37 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
-		8A53DD8B28F6D47C00F4DF37 /* make_xcframework.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = make_xcframework.sh; sourceTree = "<group>"; };
 		8A53DD8C28F6D84000F4DF37 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8A663F7D25397CE4000E9321 /* GoogleMaps */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "compiled.mach-o.objfile"; name = GoogleMaps; path = "../GoogleFrameworks/GoogleMaps.xcframework/ios-arm64_x86_64-simulator/GoogleMaps.framework/GoogleMaps"; sourceTree = "<group>"; };
 		8A663FF225397D68000E9321 /* GoogleMapsBase */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "compiled.mach-o.objfile"; name = GoogleMapsBase; path = "../GoogleFrameworks/GoogleMapsBase.xcframework/ios-arm64_x86_64-simulator/GoogleMapsBase.framework/GoogleMapsBase"; sourceTree = "<group>"; };
@@ -185,7 +184,6 @@
 			isa = PBXGroup;
 			children = (
 				8A53DD8C28F6D84000F4DF37 /* README.md */,
-				8A53DD8B28F6D47C00F4DF37 /* make_xcframework.sh */,
 				8A53DD8A28F6D2BD00F4DF37 /* Package.swift */,
 				8A8C8EEC25387A0C00F5C247 /* GoogleMaps */,
 				8A8C8EFD25387A3E00F5C247 /* GoogleMapsBase */,
