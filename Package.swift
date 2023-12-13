@@ -13,18 +13,18 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/BumpdOfficial/googlemaps-spm/releases/download/8.1.0/GoogleMaps.xcframework.zip",
-            checksum: "b0aa1576671715ec9200012b7f9c6c321cd22ef7cfe312d334c6c1a4ecf58106"
+            url: "https://github.com/BumpdOfficial/googlemaps-spm/releases/download/8.3.1/GoogleMaps.xcframework.zip",
+            checksum: "4d9b8a4836d52eb7ef6257968853a9949b02cde299a05fe7389efab54c59128c"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/BumpdOfficial/googlemaps-spm/releases/download/8.1.0/GoogleMapsCore.xcframework.zip",
-            checksum: "0b33fa875073b6ba2db33e05ac033579264749a2af1ed80443fc27758772ab62"
+            url: "https://github.com/BumpdOfficial/googlemaps-spm/releases/download/8.3.1/GoogleMapsCore.xcframework.zip",
+            checksum: "31d11bdb0b12bac2bf33e3416c15bd09258a4e193fd8a5ceb452bad281c66626"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/BumpdOfficial/googlemaps-spm/releases/download/8.1.0/GoogleMapsBase.xcframework.zip",
-            checksum: "7370d528e09b4868989de5d1301d19e439a5c52bf36398a417e490d56cd9ca67"
+            url: "https://github.com/BumpdOfficial/googlemaps-spm/releases/download/8.3.1/GoogleMapsBase.xcframework.zip",
+            checksum: "4e865a2f22e393f51546d4095452f4a93e067539a0c48339bb0f579fb5eb163a"
         )
     ]
 )
